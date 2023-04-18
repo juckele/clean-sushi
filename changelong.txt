@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 2023-04-18
+  Changes:
+    - Added widespread compatibility between extra belt types in mods. Please report any bugs.
+---------------------------------------------------------------------------------------------------
 Version: 0.2.0
 Date: 2023-04-16
   Changes:
