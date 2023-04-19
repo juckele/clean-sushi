@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.4.0
+Date: 2023-04-18
+  Changes:
+    - Made sushi belt wire connections closer together, more out of the way, and make all
+      connection positions consistent.
+---------------------------------------------------------------------------------------------------
 Version: 0.3.0
 Date: 2023-04-18
   Changes:
